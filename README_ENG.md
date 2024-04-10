@@ -2,7 +2,7 @@
 
 [На русском](README.md)
 
-Site photogallery written in PHP, MySQL and JavaScritp.
+Site photogallery written in PHP, MySQL and JavaScript.
 
 Source code of my old website **kazanreal.ru** as of **2011 year**. This website does not exists anymory, I do not own this domain name for a long time already.
 
@@ -12,9 +12,9 @@ Source code of my old website **kazanreal.ru** as of **2011 year**. This website
 
 2) Move files from **WWW** folder, to folder from which website will be created.
 
-3) Create database with necessary tables from filr **kazanreal.sql**
+3) Create database with necessary tables from file **kazanreal.sql**
 
-4) In file **WWW/config.php** write credential to connect to MySQL database, as well as local URL of website.
+4) In file **WWW/config.php** write credentials to connect to MySQL database, as well as local URL of website.
 
 5) Open URL of website in browser, website should open.
 
